@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE-StoreDialog", "SE-StoreDialog\SE-StoreDialog.csproj", "{3A47A1C6-B1DA-4937-A4E9-917F9BB9F03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A47A1C6-B1DA-4937-A4E9-917F9BB9F03C}.Debug|x64.ActiveCfg = Debug|x64
+		{3A47A1C6-B1DA-4937-A4E9-917F9BB9F03C}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4F34B8-4932-4D17-95FD-B293FB565E4D}
+	EndGlobalSection
+EndGlobal
